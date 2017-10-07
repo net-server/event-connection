@@ -1,0 +1,20 @@
+{
+  "name": "net-server-event-connection",
+  "version": "0.0.0",
+  "description": "a net.Server event handler for the connection event",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "net.Server event",
+    "net.Server event connection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/net-server/event-connection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/net-server/event-connection/issues"
+  },
+  "homepage": "https://github.com/net-server/event-connection#readme"
+}
